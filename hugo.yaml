@@ -5,7 +5,13 @@ title: "The Tyler N"
 theme: ["PaperMod"]
 enableGitInfo: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
+  comments: true
+
   profileMode:
     enabled: true
     title: "Tyler N"
@@ -42,3 +48,8 @@ menu:
 frontmatter:
   date: ["date", ":git", "publishDate"]
   lastmod: [":git", "lastmod", "date"]
+
+
+minify:
+  disableXML: false
+  minifyOutput: true
