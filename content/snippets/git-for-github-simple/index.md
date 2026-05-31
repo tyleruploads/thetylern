@@ -2,7 +2,7 @@
 title: "Git for GitHub: How to use simple Git commands to manage a GitHub repository"
 draft: false
 description: "A simple tutorial on using Git to manage a GitHub repository."
-tags: ["git", "github", "version-control", "simple"]
+tags: ["git", "github", "tutorial", "beginners"]
 categories: ["engineering"]
 showToc: true
 TocOpen: false
