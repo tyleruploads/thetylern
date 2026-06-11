@@ -1,7 +1,7 @@
 ---
 title: "Why Terminal-Based Development Is Best For Me"
 date: 2026-06-11T16:58:29-04:00
-draft: true
+draft: false
 desctiption: ""
 tags: ["linux", "productivity", "discuss", "python"]
 showToc: true
